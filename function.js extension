@@ -1,0 +1,12 @@
+
+ function identity(x,y)
+return x
+
+var output-identity(23)
+
+console.log (identity)(23)
+
+add (2)
+console.log
+
+

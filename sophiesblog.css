@@ -1,0 +1,35 @@
+
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: orange;
+    font-size: 20px;
+  }
+  p {
+    color: red;
+    text-align: center;
+  }
+  #para1 {
+    text-align: center;
+    color: red;
+  }
+  .center {
+    text-align: center;
+    color: red;
+  }
+  p.center {
+    text-align: center;
+    color: red;
+  }
+  h1, h2, p {
+    text-align: center;
+    color: red;
+  }
+  
